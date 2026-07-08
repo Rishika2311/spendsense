@@ -1,0 +1,5 @@
+{
+  "categorizer_macro_f1": 1.0,
+  "anomaly_roc_auc": 0.9881345859565912,
+  "n_rows": 8100
+}
